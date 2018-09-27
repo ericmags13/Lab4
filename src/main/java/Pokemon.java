@@ -1,3 +1,4 @@
+import java.util.Scanner;
 /**
  * Class that implements a Pokemon.
  * <p>
